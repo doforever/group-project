@@ -1,4 +1,4 @@
-# E-commerce app
+# Group project (e-commerce app)
 This repo consists code of React Redux app created as a group project during Web Developer Plus Kodilla bootcamp. \
 Project uses: React, Redux, React Router, Bootstrap. \
 The additional goal of this project was practical learning of using GitHub and Jira, writing code review and Kanban methodoloqy. 
